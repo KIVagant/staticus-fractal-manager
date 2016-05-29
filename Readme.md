@@ -2,9 +2,11 @@
 
 This is an example Fractal Manager for the [Staticus project](https://github.com/KIVagant/staticus).
 
+This generator will create the simple fractal image for the requested resource.
+
 Look to the parent repository for more information.
 
-This code based on [PM tetrastar fractal generator](http://www.mcld.co.uk/tetrafrac/source.php)
+This code based on [PM tetrastar fractal generator](http://www.mcld.co.uk/tetrafrac/): [Source Code](http://www.mcld.co.uk/tetrafrac/source.php)
 
 ## Contributors
 
