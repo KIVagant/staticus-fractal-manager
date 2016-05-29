@@ -8,8 +8,8 @@ This code based on [PM tetrastar fractal generator](http://www.mcld.co.uk/tetraf
 
 ## Contributors
 
-MC Loonee Dan (Dan Stowell)
-Eugene Glotov <kivagant at gmail.com>
+- MC Loonee Dan (Dan Stowell)
+- Eugene Glotov <kivagant at gmail.com>
 
 ## License
 
