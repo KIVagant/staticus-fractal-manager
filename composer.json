@@ -1,7 +1,13 @@
 {
   "name": "kivagant/staticus-fractal-manager",
-  "type": "project",
+  "type": "library",
   "license": "LGPL",
+  "homepage": "https://github.com/KIVagant/staticus-fractal-manager",
+  "keywords": [
+    "fractal",
+    "generator",
+    "api"
+  ],
   "extra": {
     "branch-alias": {
       "dev-master": "1.0-dev",
